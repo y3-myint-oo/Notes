@@ -33,3 +33,10 @@ write a code in package.json file as below
     "test": "echo \"Error: no test specified\" && exit 1"
   },
 ~~~
+
+### Install Fetch ( whatwg-fetch )
+~~~
+npm WARN saveError ENOENT: no such file or directory, open '/home/y3myintoo/package.json'
+npm WARN enoent ENOENT: no such file or directory, open '/home/y3myintoo/package.json'
+~~~
+npm install in uninitialized npm package directory,initialize package with npm init
