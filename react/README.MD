@@ -40,3 +40,6 @@ npm WARN saveError ENOENT: no such file or directory, open '/home/y3myintoo/pack
 npm WARN enoent ENOENT: no such file or directory, open '/home/y3myintoo/package.json'
 ~~~
 npm install in uninitialized npm package directory,initialize package with npm init
+
+###
+https://github.com/StephenGrider/ReduxSimpleStarter/issues/181
