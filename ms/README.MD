@@ -13,4 +13,4 @@ API First Development
 5. Always Handle Server Errors
 6. GraphQL
 
-![Alt text](Notes/img/devops.png?raw=true "DevOps")
+![Alt text](https://github.com/y3-myint-oo/Notes/blob/master/img/devops.png?raw=true "DevOps")
