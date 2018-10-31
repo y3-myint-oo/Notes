@@ -14,3 +14,8 @@ API First Development
 6. GraphQL
 
 ![Alt text](https://github.com/y3-myint-oo/Notes/blob/master/img/devops.png?raw=true "DevOps")
+
+Monitor
+---
+1. Logging
+
