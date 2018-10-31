@@ -12,3 +12,5 @@ API First Development
 4. Body Formats
 5. Always Handle Server Errors
 6. GraphQL
+
+![Alt text](Notes/img/devops.png?raw=true "DevOps")
